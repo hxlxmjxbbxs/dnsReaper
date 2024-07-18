@@ -1,4 +1,4 @@
-import CloudFlare, logging
+import cloudflare, logging
 
 from domain import Domain
 
